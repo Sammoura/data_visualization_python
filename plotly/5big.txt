@@ -1,0 +1,30 @@
+Microsoft
+LinkedIn (2016)	$26.2 billion	Social Media
+Skype (2011)	$8.5 billion	Telecommunications
+GitHub (2018)	$7.5 billion	Software
+Nokia (2014)	$7.2 billion	Telecommunications
+aQuantive (2007)	$6.3 billion	Marketing
+Amazon
+Whole_Foods (2017)	$13.7 billion	Retail
+Zappos (2009)	$1.2 billion	Retail
+Ring (2018)	$1.2 billion	Technology
+PillPack (2018)	$1 billion	Pharmaceuticals
+Twitch (2014)	$970 million	Social Media
+Alphabet
+Motorola (2012) 	$12.5 billion	Telecommunications
+Nest (2014)	$3.2 billion	Technology
+DoubleClick (2007)	$3.1 billion	Marketing
+Looker (2019)	$2.6 billion	Software
+YouTube (2006)	$1.7 billion	Social Media
+Apple
+Beats (2014)	$3 billion	Music
+Dialog_Semiconductor (2018)	$600 million	Manufacturing
+Anobit (2011)	$500 million	Manufacturing
+Shazam (2017)	 $400 million	 Music
+NeXT_Computer (1996)	$400 million	Technology
+Facebook
+WhatsApp (2014)	$22 billion	Social Media
+Oculus (2014)	$2 billion	Technology
+Instagram (2012)	$1 billion	Social Media
+LiveRail (2014)	$500 million	Marketing
+Onavo (2013)	$200 million	Analytics
